@@ -1,6 +1,7 @@
 # Welcome to my Wiki-Bio!          
 
-### Please click on the Wiki tab (3rd one from the right).           
+### Please click on the Wiki tab (3rd one from the right).     
+#### No not there. Do you see where it says code, issues, Pull Req-- there you go you got it.
        
 My name is David and I am an aspiring Data Artist.           
 I love to merge data, research, and art to explore, learn, and understand how our beautiful world works.                      
