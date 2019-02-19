@@ -8,6 +8,10 @@ I love to merge data, research, and art to explore, learn, and understand how ou
 I am currently working on many projects and deciding on which Graduate Schools to attend to earn an MSc. in Data Science.
 So please stay tuned.
 
+Want to contact me?               
+Prefer email: daveg.875@gmail.com            
+LinkedIn: https://www.linkedin.com/in/davidg-p/
+
 Thank you for checking out my GitHub. 
 
 I hope you have an amazing day!
